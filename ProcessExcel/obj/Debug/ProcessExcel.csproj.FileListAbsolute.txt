@@ -1,0 +1,14 @@
+C:\Arbeit\KPMG\Assignment\ProcessExcel\obj\Debug\ProcessExcel.csprojResolveAssemblyReference.cache
+C:\Arbeit\KPMG\Assignment\ProcessExcel\bin\Debug\ProcessExcel.dll
+C:\Arbeit\KPMG\Assignment\ProcessExcel\bin\Debug\ProcessExcel.pdb
+C:\Arbeit\KPMG\Assignment\ProcessExcel\bin\Debug\DAL.dll
+C:\Arbeit\KPMG\Assignment\ProcessExcel\bin\Debug\Interfaces.dll
+C:\Arbeit\KPMG\Assignment\ProcessExcel\bin\Debug\LinqToExcel.dll
+C:\Arbeit\KPMG\Assignment\ProcessExcel\bin\Debug\Models.dll
+C:\Arbeit\KPMG\Assignment\ProcessExcel\bin\Debug\Remotion.Data.Linq.dll
+C:\Arbeit\KPMG\Assignment\ProcessExcel\bin\Debug\DAL.pdb
+C:\Arbeit\KPMG\Assignment\ProcessExcel\bin\Debug\Interfaces.pdb
+C:\Arbeit\KPMG\Assignment\ProcessExcel\bin\Debug\Models.pdb
+C:\Arbeit\KPMG\Assignment\ProcessExcel\bin\Debug\LinqToExcel.xml
+C:\Arbeit\KPMG\Assignment\ProcessExcel\obj\Debug\ProcessExcel.dll
+C:\Arbeit\KPMG\Assignment\ProcessExcel\obj\Debug\ProcessExcel.pdb

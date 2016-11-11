@@ -1,0 +1,7 @@
+C:\Arbeit\KPMG\Assignment\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Arbeit\KPMG\Assignment\Models\bin\Debug\Models.dll
+C:\Arbeit\KPMG\Assignment\Models\bin\Debug\Models.pdb
+C:\Arbeit\KPMG\Assignment\Models\bin\Debug\Interfaces.dll
+C:\Arbeit\KPMG\Assignment\Models\bin\Debug\Interfaces.pdb
+C:\Arbeit\KPMG\Assignment\Models\obj\Debug\Models.dll
+C:\Arbeit\KPMG\Assignment\Models\obj\Debug\Models.pdb
